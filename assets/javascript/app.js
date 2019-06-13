@@ -22,7 +22,7 @@ var trivia = {
     q4: "What galaxy do we currently live in?",
     q5: "Which star is at the center of our Solar System?",
     q6: "How much time does sun rays take to reach earth?",
-    q7: "?"
+    q7: "Which is the coldest and smallest of all planets?"
   },
   options: {
     q1: ["8", "9", "10", "11"],
@@ -36,7 +36,7 @@ var trivia = {
     ],
     q5: ["Vega", "Rigel", "Sun", "Sirius"],
     q6: ["8 minutes", "16 minutes", "24 minutes", "32 minutes"],
-    q7: ["Ross", "Phoebe", "Monica", "Chandler"]
+    q7: ["Neptune", "Mars", "Pluto", "Venus"]
   },
   answers: {
     q1: "8",
@@ -44,8 +44,8 @@ var trivia = {
     q3: "Mercury",
     q4: "Milky Way Galaxy",
     q5: "Sun",
-    q6: "Chandler",
-    q7: "Phoebe"
+    q6: "8 minutes",
+    q7: "Pluto"
   },
   // trivia methods
   // methods to initialize game
