@@ -1,0 +1,14 @@
+body {
+  background-image: url(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj7vIO9suXiAhWHl-AKHV-5CHEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.spacetelescope.org%2Fimages%2Farchive%2Ftop100%2F&psig=AOvVaw2mYSnJPn9kBTxST3FMLkch&ust=1560478719426328);
+  text-align: center;
+}
+
+.text-muted {
+  color: blue;
+}
+.last-seconds {
+  color: red;
+}
+.option {
+  margin: 15px;
+}
