@@ -16,29 +16,34 @@ var trivia = {
   timerId: "",
   // questions options and answers data
   questions: {
-    q1: "?",
-    q2: "?",
-    q3: "?",
-    q4: "?",
-    q5: "?",
-    q6: "?",
+    q1: "How many known planets are in our solar system?",
+    q2: "Which is the fifth planet in our solar system?",
+    q3: "Which planet does not have any moons?",
+    q4: "What galaxy do we currently live in?",
+    q5: "Which star is at the center of our Solar System?",
+    q6: "How much time does sun rays take to reach earth?",
     q7: "?"
   },
   options: {
-    q1: ["Monica", "Chandler", "Rachel", "Ross"],
-    q2: ["Fish", "Apples", "Oranges", "Sandwhiches"],
-    q3: ["5", "2", "1", "3"],
-    q4: ["3", "8", "11", "6"],
-    q5: ["Rachel", "Phoebe", "Emily", "Carol"],
-    q6: ["Joey", "Chandler", "Rachel", "Ross"],
+    q1: ["8", "9", "10", "11"],
+    q2: ["Earth", "Neptune", "Saturn", "Jupiter"],
+    q3: ["Mercury", "Jupiter", "Mars", "Saturn"],
+    q4: [
+      "Andromeda Galaxy",
+      "Milky Way Galaxy",
+      "Black Eye Galazy",
+      "Comet Galaxy"
+    ],
+    q5: ["Vega", "Rigel", "Sun", "Sirius"],
+    q6: ["8 minutes", "16 minutes", "24 minutes", "32 minutes"],
     q7: ["Ross", "Phoebe", "Monica", "Chandler"]
   },
   answers: {
-    q1: "Monica",
-    q2: "Sandwhiches",
-    q3: "3",
-    q4: "11",
-    q5: "Rachel",
+    q1: "8",
+    q2: "Jupiter",
+    q3: "Mercury",
+    q4: "Milky Way Galaxy",
+    q5: "Sun",
     q6: "Chandler",
     q7: "Phoebe"
   },
